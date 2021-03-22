@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MarkoAheienkov/HomeAccountingClient/static/css/main.2ffa25ba.chunk.css",
-    "main.js": "/MarkoAheienkov/HomeAccountingClient/static/js/main.7b57bac8.chunk.js",
-    "main.js.map": "/MarkoAheienkov/HomeAccountingClient/static/js/main.7b57bac8.chunk.js.map",
-    "runtime-main.js": "/MarkoAheienkov/HomeAccountingClient/static/js/runtime-main.978aaade.js",
-    "runtime-main.js.map": "/MarkoAheienkov/HomeAccountingClient/static/js/runtime-main.978aaade.js.map",
-    "static/js/2.1d3621d9.chunk.js": "/MarkoAheienkov/HomeAccountingClient/static/js/2.1d3621d9.chunk.js",
-    "static/js/2.1d3621d9.chunk.js.map": "/MarkoAheienkov/HomeAccountingClient/static/js/2.1d3621d9.chunk.js.map",
-    "static/js/3.6f58d6e9.chunk.js": "/MarkoAheienkov/HomeAccountingClient/static/js/3.6f58d6e9.chunk.js",
-    "static/js/3.6f58d6e9.chunk.js.map": "/MarkoAheienkov/HomeAccountingClient/static/js/3.6f58d6e9.chunk.js.map",
-    "index.html": "/MarkoAheienkov/HomeAccountingClient/index.html",
-    "static/css/main.2ffa25ba.chunk.css.map": "/MarkoAheienkov/HomeAccountingClient/static/css/main.2ffa25ba.chunk.css.map",
-    "static/js/2.1d3621d9.chunk.js.LICENSE.txt": "/MarkoAheienkov/HomeAccountingClient/static/js/2.1d3621d9.chunk.js.LICENSE.txt"
+    "main.css": "/HomeAccountingClient/static/css/main.2ffa25ba.chunk.css",
+    "main.js": "/HomeAccountingClient/static/js/main.e7341e95.chunk.js",
+    "main.js.map": "/HomeAccountingClient/static/js/main.e7341e95.chunk.js.map",
+    "runtime-main.js": "/HomeAccountingClient/static/js/runtime-main.00372ca8.js",
+    "runtime-main.js.map": "/HomeAccountingClient/static/js/runtime-main.00372ca8.js.map",
+    "static/js/2.1d3621d9.chunk.js": "/HomeAccountingClient/static/js/2.1d3621d9.chunk.js",
+    "static/js/2.1d3621d9.chunk.js.map": "/HomeAccountingClient/static/js/2.1d3621d9.chunk.js.map",
+    "static/js/3.6f58d6e9.chunk.js": "/HomeAccountingClient/static/js/3.6f58d6e9.chunk.js",
+    "static/js/3.6f58d6e9.chunk.js.map": "/HomeAccountingClient/static/js/3.6f58d6e9.chunk.js.map",
+    "index.html": "/HomeAccountingClient/index.html",
+    "static/css/main.2ffa25ba.chunk.css.map": "/HomeAccountingClient/static/css/main.2ffa25ba.chunk.css.map",
+    "static/js/2.1d3621d9.chunk.js.LICENSE.txt": "/HomeAccountingClient/static/js/2.1d3621d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.978aaade.js",
+    "static/js/runtime-main.00372ca8.js",
     "static/js/2.1d3621d9.chunk.js",
     "static/css/main.2ffa25ba.chunk.css",
-    "static/js/main.7b57bac8.chunk.js"
+    "static/js/main.e7341e95.chunk.js"
   ]
 }
