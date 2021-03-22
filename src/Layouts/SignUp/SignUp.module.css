@@ -1,0 +1,16 @@
+.Form {
+  max-width: 500px;
+  margin: 200px auto;
+  padding: 20px;
+  box-shadow: 0px 0px 2px 2px black;
+}
+
+.Title {
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 32px;
+}
+
+.ButtonContainer {
+  padding-top: 20px;
+}

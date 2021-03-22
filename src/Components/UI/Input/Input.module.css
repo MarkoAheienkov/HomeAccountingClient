@@ -1,0 +1,28 @@
+.FormControl {
+  width: 100%;
+}
+
+.Input {
+  width: 100%;
+  display: block;
+  font-size: 16px;
+  border: 1px solid var(--black-1);
+  padding: 8px 5px 5px;
+}
+
+.Label {
+  width: 100%;
+  font-size: 24px;
+  display: block;
+  padding: 5px 0px 10px;
+}
+
+.Input.error {
+  box-shadow: 0px 0px 1px 1px var(--error-1);
+}
+
+.ErrorText {
+  display: block;
+  padding: 5px 0 0;
+  color: var(--error-1);
+}

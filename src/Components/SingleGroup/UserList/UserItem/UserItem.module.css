@@ -1,0 +1,14 @@
+.UserItem {
+  padding: 10px;
+  border-bottom: 1px solid var(--black-3);
+}
+
+.Username {
+  display: block;
+  color: var(--black-1);
+}
+
+.Email {
+  display: block;
+  color: var(--black-3);
+}

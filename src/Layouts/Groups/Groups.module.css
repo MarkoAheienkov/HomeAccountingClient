@@ -1,0 +1,25 @@
+.GroupsPage {
+  padding: 100px 0;
+}
+
+.Groups {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.AddGroup {
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.AddGroup:hover .Add {
+  color: var(--black-3);
+}
+
+.Add {
+  color: var(--black-2);
+  transition: color 0.4s;
+}

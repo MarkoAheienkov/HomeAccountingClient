@@ -1,0 +1,10 @@
+.Card {
+  background: var(--white-1);
+  transition: 0.4s;
+  border: 1px solid var(--black-3);
+  cursor: pointer;
+}
+
+.Card:hover {
+  box-shadow: 1px 1px 2px 2px var(--black-3);
+}

@@ -1,0 +1,25 @@
+.Section {
+  min-height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Dark {
+  background: var(--black-1);
+}
+
+.Title {
+  padding: 20px 0;
+  font-size: 48px;
+}
+
+.Text {
+  font-size: 24px;
+  padding: 0px 0px 20px;
+}
+
+.Dark .Title,
+.Dark .Text {
+  color: var(--white-1);
+}

@@ -1,0 +1,9 @@
+.Header {
+  height: 500px;
+  width: 100%;
+  background: var(--black-1);
+}
+
+.Link {
+  text-decoration: none;
+}

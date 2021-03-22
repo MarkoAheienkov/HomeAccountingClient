@@ -1,0 +1,25 @@
+.Section {
+  padding: 100px 0;
+}
+
+.Title {
+  font-size: 32px;
+  padding: 10px 0;
+}
+
+.Description {
+  font-size: 24px;
+  padding: 10px 0;
+}
+
+.Balance {
+  padding: 10px 0;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.Grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}

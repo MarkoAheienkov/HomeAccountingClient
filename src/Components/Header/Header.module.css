@@ -1,0 +1,21 @@
+.Header {
+  z-index: 200;
+  top: 0px;
+  width: 100%;
+  padding: 23px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transition: all 0.4s;
+  position: fixed;
+  background: var(--black-1);
+}
+
+.Logo {
+  font-size: 24px;
+  color: var(--white-1);
+}
+
+.Header.sticky {
+  box-shadow: 0px 2px 2px 2px var(--black-3);
+}

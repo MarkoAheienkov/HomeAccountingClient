@@ -1,0 +1,16 @@
+.Backdrop {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 100vh;
+  width: 100vw;
+  background: var(--black-2);
+  transition: 0.4s;
+  opacity: 0;
+  z-index: -1;
+}
+
+.Backdrop.active {
+  opacity: 1;
+  z-index: 500;
+}

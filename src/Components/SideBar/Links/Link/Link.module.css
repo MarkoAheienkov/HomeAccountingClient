@@ -1,0 +1,27 @@
+.ListItem {
+  width: 100%;
+}
+
+.Link {
+  text-decoration: none;
+  color: var(--black-1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  font-size: 24px;
+  transition: 0.4s ease;
+  cursor: pointer;
+  padding: 20px 0;
+}
+
+.Link:focus {
+  outline: none;
+}
+
+.Link.active,
+.Link:hover {
+  color: var(--white-1);
+  background: var(--black-1);
+}

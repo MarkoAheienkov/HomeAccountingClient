@@ -1,0 +1,26 @@
+.Button {
+  display: block;
+  padding: 10px;
+  font-size: 16px;
+  background: var(--black-1);
+  color: var(--white-1);
+  border: 1px solid var(--black-1);
+  width: 100%;
+  cursor: pointer;
+  transition: 0.4s ease;
+}
+
+.Button:hover {
+  color: var(--black-1);
+  background: var(--white-1);
+}
+
+.Button:disabled {
+  background: var(--gray-1);
+  cursor: not-allowed;
+  border: 1px solid var(--gray-1);
+}
+.Button:disabled:hover {
+  color: var(--white-1);
+  background: var(--gray-1);
+}
