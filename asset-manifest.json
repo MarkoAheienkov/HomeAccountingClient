@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HomeAccountingClient/static/css/main.2ffa25ba.chunk.css",
-    "main.js": "/HomeAccountingClient/static/js/main.e7341e95.chunk.js",
-    "main.js.map": "/HomeAccountingClient/static/js/main.e7341e95.chunk.js.map",
+    "main.js": "/HomeAccountingClient/static/js/main.e2245f97.chunk.js",
+    "main.js.map": "/HomeAccountingClient/static/js/main.e2245f97.chunk.js.map",
     "runtime-main.js": "/HomeAccountingClient/static/js/runtime-main.00372ca8.js",
     "runtime-main.js.map": "/HomeAccountingClient/static/js/runtime-main.00372ca8.js.map",
     "static/js/2.1d3621d9.chunk.js": "/HomeAccountingClient/static/js/2.1d3621d9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.00372ca8.js",
     "static/js/2.1d3621d9.chunk.js",
     "static/css/main.2ffa25ba.chunk.css",
-    "static/js/main.e7341e95.chunk.js"
+    "static/js/main.e2245f97.chunk.js"
   ]
 }
